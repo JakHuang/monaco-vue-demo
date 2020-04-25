@@ -41,6 +41,6 @@ monaco.editor.create(document.getElementById("app"), {
       automaticLayout: true
     });
 ```
-注意要给monaco编辑器所在的元设置样式，指定宽高。
+注意要给monaco编辑器所在的标签设置样式，指定宽高。
 
 
